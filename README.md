@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Im Amine!</h1>
+<h1 align="center">Hi 👋, i'm aviafuujisaka!</h1>
 <h3 align="center">A passionate developer from Algeria, currently learning new coding languages day-by-day!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviafuujisaka&label=Profile%20views&color=0e75b6&style=flat" alt="aviafuujisaka" /> </p>
