@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aviafuujisaka/aviafuujisaka](https://github.com/aviafuujisaka/aviafuujisaka)
 
-- 📝 I regularly write articles on [https://sites.google.com/view/aminelayaida/blogs?authuser=0](https://sites.google.com/view/aminelayaida/blogs?authuser=0)
+- 📝 I regularly write articles on [https://sites.google.com/view/aminelayaida/blogs?authuser=0]([my personal website](https://sites.google.com/view/aviafuujisaka/home))
 
 - 🍔 My favourite food **Chicken and Chips or A Chicken Burger**
 
