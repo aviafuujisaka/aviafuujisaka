@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviafuujisaka&label=Profile%20views&color=0e75b6&style=flat" alt="aviafuujisaka" /> </p>
 
-- 🔭 I’m currently working on [a personal website](https://sites.google.com/view/ aminelayaida)
+- 🔭 I’m currently working on [a personal website](https://sites.google.com/view/aminelayaida)
 
 - 🌱 I’m currently learning **Website Development and Advanced Python.**
 
