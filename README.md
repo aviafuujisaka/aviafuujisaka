@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aviafuujisaka/aviafuujisaka](https://github.com/aviafuujisaka/aviafuujisaka)
 
-- 📝 I regularly write articles on [my personal website](https://sites.google.com/view/aviafuujisaka/home))
+- 📝 I regularly write articles on [my personal website](https://sites.google.com/view/aviafuujisaka/home)
 
-- 🍔 My favourite food **Chicken and Chips or A Chicken Burger**
+- 💻 My preferred game developing software **Roblox Studio**
 
 - 📫 How to reach me **aviaaip3@gmail.com**
 
